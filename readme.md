@@ -7,5 +7,6 @@ How to use:
 <ul>
   <li>Import the sql file from the database </li>
   <li>Configure your .env file</li>
+  <li>Run npm install from the command line.</li>
   <li>Run the app.</li>
  </ul>
